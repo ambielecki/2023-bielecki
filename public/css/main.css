@@ -1,0 +1,1 @@
+html{height:100%}body{display:grid;grid-template-rows:1fr auto;min-height:100%}.ab_footer{grid-row-end:3;grid-row-start:2;padding:1rem}#app_section{margin:1rem 0}
