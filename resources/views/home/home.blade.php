@@ -93,7 +93,7 @@
                                     <p>
                                         Continuing with the half finished sites we have
                                         <a href="https://beer.andrewbielecki.com" target="_blank">Homebrew Helper</a>,
-                                        my final project from a Harvard Extension class, <a href="https://hesweb.dev/e28" target="_blank">DGMD E-28</a>.
+                                        my final project from a Harvard Extension class, DGMD E-28.
                                         It is a simple journal for saving information about your home brewed beers.
                                     </p>
                                     <br>
