@@ -28,10 +28,9 @@ add('writable_dirs', []);
 
 // Hosts
 
-host('134.122.123.200')
-    ->user('ambielecki')
-    ->stage('production')
-    ->set('deploy_path', '/var/www/html/bielecki');
+host('137.184.202.43')
+    ->setRemoteUser('ambielecki')
+    ->set('deploy_path', '/var/www/bielecki');
 
 // Tasks
 
