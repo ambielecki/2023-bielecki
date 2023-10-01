@@ -72,18 +72,29 @@
                                 <div class="card-content">
                                     <p>
                                         You can find one of those half finished hobby projects here,
-                                        <a href="https://divelog.andrewbielecki.com" target="_blank">DiveLogRepeat</a>.
+                                        <a href="https://divelogrepeat.com" target="_blank">DiveLogRepeat</a>.
                                         It is supposed to become a online divelog, but I've only finished off
                                         the dive calculator section, which lets you get some important stats off the
                                         PADI dive tables.
                                     </p>
                                     <br>
-                                    <b>Note, the site is currently down as I migrate servers.</b>
+                                    <p>
+                                        The site is undergoing a rewrite at the moment and is only partially complete.
+                                        Currently you can register, log a dive, and use the dive calculator.  Validation
+                                        is lacking, the divelog is incomplete, and I am working on the admin / cms side
+                                        of things to get the homepage up and running with content.
+                                    </p>
                                     <br>
                                     <p>
-                                        It is written in Laravel with some Vue sprinkled in, running on a typical
-                                        LAMP stack on a small Digital Ocean droplet. You can find the github
-                                        repo here: <a href="https://github.com/ambielecki/divelog_2019" target="_blank">Github Repo</a>.
+                                        The frontend is written with Vue3 composition API and the backend is a Laravel 10
+                                        application.
+                                    </p>
+                                    <br>
+                                    <ul class="list">
+                                        <li class="list-item">You can find the frontend repo here: <a href="https://github.com/ambielecki/2023-divelogrepeat" target="_blank">Frontend Repo</a>.</li>
+                                        <li class="list-item">You can find the backend repo here: <a href="https://github.com/ambielecki/2023-divelog-api-v2" target="_blank">Backend Repo</a>.</li>
+                                        <li class="list-item">The original site (Laravel Blade + Vue): <a href="https://github.com/ambielecki/divelog_2019" target="_blank">Monorepo</a>.</li>
+                                    </ul>
                                     </p>
                                 </div>
                             </div>

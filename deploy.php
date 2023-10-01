@@ -30,7 +30,7 @@ add('writable_dirs', []);
 
 host('137.184.202.43')
     ->setRemoteUser('ambielecki')
-    ->set('deploy_path', '/var/www/bielecki');
+    ->set('deploy_path', '/var/www/2023-bielecki');
 
 // Tasks
 
