@@ -14,11 +14,11 @@
                         <div class="card-content">
                             <p>
                                 Hello, thanks for stopping by.  I am Andrew Bielecki, a software
-                                engineer living just north of Boston, MA.  I am still relatively
-                                new to the field (about 4 years now) as I spent over a decade after
-                                university working as a bench scientist in the biopharmaceutical industry.
-                                I recently graduated with my Master's degree in Information Management
-                                Systems from Harvard Extension School in the Spring of 2020.
+                                engineer living just north of Boston, MA.  I have been developing web software for about
+                                {{ $years }} years.  Software engineering is my second career, after univeristy I spent
+                                over a decade working as a bench scientist in the biopharmaceutical industry.
+                                In 2020 I graduated with my Master's degree in Information Management
+                                Systems from Harvard Extension School and have been applying it to my work ever since.
                             </p>
                             <br>
                             <p>
@@ -40,6 +40,12 @@
                                 and a second project, also in Laravel, that focused more on ETL / cron scripts.  After
                                 Mobilefuse I joined the team at <a href="https://www.healthcaresource.com/" target="_blank">Healthcaresource</a>,
                                 where I work on their assessments products which are written in both a homegrown PHP framework and Yii.
+
+                                My current role is as a Lead Engineer at <a href="https://www.quartzy.com">Quartzy</a>
+                                leading the Ecommerce Shop pod.  Quartzy provides SaaS software that allows labs to
+                                manage their requests and inventory in addition to allowing researches to order through
+                                our online shop.  This has been the best of both worlds, combining my knowledge of
+                                biotech research labs and software engineering.
                             </p>
                             <br>
                             <p>
@@ -72,6 +78,8 @@
                                         PADI dive tables.
                                     </p>
                                     <br>
+                                    <b>Note, the site is currently down as I migrate servers.</b>
+                                    <br>
                                     <p>
                                         It is written in Laravel with some Vue sprinkled in, running on a typical
                                         LAMP stack on a small Digital Ocean droplet. You can find the github
@@ -96,6 +104,8 @@
                                         my final project from a Harvard Extension class, DGMD E-28.
                                         It is a simple journal for saving information about your home brewed beers.
                                     </p>
+                                    <br>
+                                    <b>Note, the site is currently down as I migrate servers.</b>
                                     <br>
                                     <p>
                                         This is a Vue Single Page Application backed by a Laravel API, again hosted on Digital Ocean.
