@@ -7,6 +7,8 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <link rel="stylesheet" href="{{ mix('/css/app.css') }}">
     <link rel="stylesheet" href="{{ mix('/css/main.css') }}">
+    <meta name="description" content="@yield('description', 'Home Page for Andrew Bielecki')"/>
+    <meta name="robots" content="index, follow">
     <script src="{{ mix('/js/app.js') }}"></script>
     {{-- For page specific css --}}
     @stack('head_scripts')

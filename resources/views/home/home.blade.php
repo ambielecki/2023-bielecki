@@ -1,5 +1,13 @@
 @extends('layout.layout')
 
+@section('title')
+Andrew Bielecki - Full Stack PHP Developer
+@endsection
+
+@section('description')
+Contact page for PHP Lead Fullstack or Backend Developer with Laravel, Vue, React, and Ember experience
+@endsection
+
 @section('layout')
     <section id="app_section">
         <div class="container">
@@ -25,11 +33,11 @@
                                 My primary focus has been working with PHP on the backend side of things,
                                 but I have experience in frontend systems as well.  I've worked with
                                 Laravel, Yii, Symfony, and a number of homegrown systems in PHP for both web
-                                backends and general ETL scripting. Most of my frontend work has been with traditional
-                                HTML / CSS, incorporating CSS frameworks such as Bootstrap, but I've also had some opportunity to
-                                get familiar with modern JS frameworks, having worked with both VueJS and Angular. And of
-                                course I've had the need / opportunity to work in other languages such as Python and Java
-                                when it fit our projects or was needed for the task at hand.
+                                backends and general ETL scripting. I have experience with VueJs, Ember, and a little
+                                React on the frontend, and of course experience with simpler sites with Bootstrap or
+                                other CSS frameworks. And of course I've had the need / opportunity to work in other
+                                languages such as Python and Java when it fit our projects or was needed for the
+                                task at hand.
                             </p>
                             <br>
                             <p>
@@ -111,7 +119,7 @@
                                 <div class="card-content">
                                     <p>
                                         Continuing with the half finished sites we have
-                                        <a href="https://beer.andrewbielecki.com" target="_blank">Homebrew Helper</a>,
+                                        Homebrew Helper,
                                         my final project from a Harvard Extension class, DGMD E-28.
                                         It is a simple journal for saving information about your home brewed beers.
                                     </p>
