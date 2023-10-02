@@ -128,6 +128,7 @@ Contact page for PHP Lead Fullstack or Backend Developer with Laravel, Vue, Reac
                                         Both the frontend and backend are a little rough as I just ripped them out of the original school repo
                                         and brought them up to date enough to run on a newer PHP 8.2 / Node 20 server.
                                     </p>
+                                    <br>
                                     <ul class="list">
                                         <li class="list-item">You can find the frontend repo here: <a href="https://github.com/ambielecki/2023-beer" target="_blank">Frontend Repo</a>.</li>
                                         <li class="list-item">You can find the backend repo here: <a href="https://github.com/ambielecki/2023-beer-api" target="_blank">Backend Repo</a>.</li>
