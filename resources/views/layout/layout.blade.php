@@ -13,8 +13,9 @@
     {{-- For page specific css --}}
     @stack('head_scripts')
 </head>
-<!-- Google tag (gtag.js) -->
+
 @production
+    <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-B9DSFQEDKL"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
