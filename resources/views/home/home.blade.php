@@ -118,7 +118,7 @@ Contact page for PHP Lead Fullstack or Backend Developer with Laravel, Vue, Reac
                                 <div class="card-content">
                                     <p>
                                         Continuing with the half finished sites we have
-                                        Homebrew Helper,
+                                        <a href="https://beer.andrewbielecki.com" target="_blank">Homebrew Helper</a>,
                                         my final project from a Harvard Extension class, DGMD E-28.
                                         It is a simple journal for saving information about your home brewed beers.
                                     </p>
