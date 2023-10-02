@@ -103,7 +103,6 @@ Contact page for PHP Lead Fullstack or Backend Developer with Laravel, Vue, Reac
                                         <li class="list-item">You can find the backend repo here: <a href="https://github.com/ambielecki/2023-divelog-api-v2" target="_blank">Backend Repo</a>.</li>
                                         <li class="list-item">The original site (Laravel Blade + Vue): <a href="https://github.com/ambielecki/divelog_2019" target="_blank">Monorepo</a>.</li>
                                     </ul>
-                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -124,13 +123,15 @@ Contact page for PHP Lead Fullstack or Backend Developer with Laravel, Vue, Reac
                                         It is a simple journal for saving information about your home brewed beers.
                                     </p>
                                     <br>
-                                    <b>Note, the site is currently down as I migrate servers.</b>
-                                    <br>
                                     <p>
-                                        This is a Vue Single Page Application backed by a Laravel API, again hosted on Digital Ocean.
-                                        You can find the github
-                                        repo here: <a href="https://github.com/ambielecki/e28/tree/master/p3" target="_blank">Github Repo</a>.
+                                        This is a Vue2 Single Page Application backed by a Laravel API, again hosted on Digital Ocean.
+                                        Both the frontend and backend are a little rough as I just ripped them out of the original school repo
+                                        and brought them up to date enough to run on a newer PHP 8.2 / Node 20 server.
                                     </p>
+                                    <ul class="list">
+                                        <li class="list-item">You can find the frontend repo here: <a href="https://github.com/ambielecki/2023-beer" target="_blank">Frontend Repo</a>.</li>
+                                        <li class="list-item">You can find the backend repo here: <a href="https://github.com/ambielecki/2023-beer-api" target="_blank">Backend Repo</a>.</li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
