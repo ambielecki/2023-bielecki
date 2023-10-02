@@ -13,6 +13,17 @@
     {{-- For page specific css --}}
     @stack('head_scripts')
 </head>
+<!-- Google tag (gtag.js) -->
+@production
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-B9DSFQEDKL"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-B9DSFQEDKL');
+    </script>
+@endproduction
 
 <body class="has-background-white-bis">
     <div class="wrapper">
