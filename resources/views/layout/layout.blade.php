@@ -14,18 +14,6 @@
     @stack('head_scripts')
 </head>
 
-@production
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-B9DSFQEDKL"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'G-B9DSFQEDKL');
-    </script>
-@endproduction
-
 <body class="has-background-white-bis">
     <div class="wrapper">
         <section class="hero is-info">
