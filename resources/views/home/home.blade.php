@@ -71,6 +71,25 @@ Contact page for PHP Lead Fullstack or Backend Developer with Laravel, Vue, Reac
                     <div class="columns is-multiline">
                         <div class="column is-full">
                             <div class="card">
+                                <div class="card-content">
+                                    <div class="media">
+                                        <div class="media-left">
+                                            <figure class="image is-48x48">
+                                                <img class="is-rounded" src="/images/avatar.jpg" alt="Lego Benny Avatar">
+                                            </figure>
+                                        </div>
+
+                                        <div class="media-content">
+                                            <p><a href="https://github.com/ambielecki"><i class="fab fa-github"></i> Find me on Github</a></p>
+                                            <p><a href="https://www.linkedin.com/in/andrew-bielecki-5835b5123/"><i class="fab fa-linkedin"></i> Connect on LinkedIn</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="column is-full">
+                            <div class="card">
                                 <div class="card-image">
                                     <figure class="image">
                                         <img src="/images/divelogrepeat_header.jpg" alt="Dive boat in Jamaica">
@@ -133,25 +152,6 @@ Contact page for PHP Lead Fullstack or Backend Developer with Laravel, Vue, Reac
                                         <li class="list-item">You can find the frontend repo here: <a href="https://github.com/ambielecki/2023-beer" target="_blank">Frontend Repo</a>.</li>
                                         <li class="list-item">You can find the backend repo here: <a href="https://github.com/ambielecki/2023-beer-api" target="_blank">Backend Repo</a>.</li>
                                     </ul>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="column is-full">
-                            <div class="card">
-                                <div class="card-content">
-                                    <div class="media">
-                                        <div class="media-left">
-                                            <figure class="image is-48x48">
-                                                <img class="is-rounded" src="/images/avatar.jpg" alt="Lego Benny Avatar">
-                                            </figure>
-                                        </div>
-
-                                        <div class="media-content">
-                                            <p><a href="https://github.com/ambielecki"><i class="fab fa-github"></i> Find me on Github</a></p>
-                                            <p><a href="https://www.linkedin.com/in/andrew-bielecki-5835b5123/"><i class="fab fa-linkedin"></i> Connect on LinkedIn</a></p>
-                                        </div>
-                                    </div>
                                 </div>
                             </div>
                         </div>
