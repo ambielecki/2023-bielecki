@@ -98,23 +98,25 @@ Contact page for PHP Lead Fullstack or Backend Developer with Laravel, Vue, Reac
 
                                 <div class="card-content">
                                     <p>
-                                        You can find one of those half finished hobby projects here,
+                                        You can find one of those mostly finished hobby projects here,
                                         <a href="https://divelogrepeat.com" target="_blank">DiveLogRepeat</a>.
-                                        It is supposed to become a online divelog, but I've only finished off
-                                        the dive calculator section, which lets you get some important stats off the
-                                        PADI dive tables.
+                                        It is an online dive log (which is still pretty minimal at the moment) along with
+                                        some blogging capability.
                                     </p>
                                     <br>
                                     <p>
-                                        The site is undergoing a rewrite at the moment and is only partially complete.
-                                        Currently you can register, log a dive, and use the dive calculator.  Validation
-                                        is lacking, the divelog is incomplete, and I am working on the admin / cms side
-                                        of things to get the homepage up and running with content.
+                                        The site is in what I would consider a beta state, it's usable, but certainly not
+                                        complete. The dive log needs input validation on the frontend and some other
+                                        niceties. The admin section is getting there, I can upload images, edit the
+                                        home page content, and a new blog entries. Both the home page and blog entries
+                                        are version, which is convenient.
                                     </p>
                                     <br>
                                     <p>
                                         The frontend is written with Vue3 composition API and the backend is a Laravel 10
-                                        application.
+                                        application. Site is hosted on Digital Ocean with PHP 8.2, Nginx, and MySQL 8 along
+                                        with Node for build steps. It's all on github and I am using <a href="https://deployer.org/">Deployer</a>
+                                        to push changes.
                                     </p>
                                     <br>
                                     <ul class="list">
